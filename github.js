@@ -6,4 +6,3 @@ fetch('https://api.github.com/users/NikkiHmltn')
     console.log(githubData);
 })
 
-fetch('https://docs.spacexdata.com/')
